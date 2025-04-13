@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.22.0
+firebase-admin>=6.2.0
+pyserial>=3.5
+pygame>=2.5.0
+pyyaml>=6.0.1 

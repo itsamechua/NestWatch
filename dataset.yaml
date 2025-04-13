@@ -1,0 +1,6 @@
+names:
+  0: komodo dragon
+path: C:\Users\itsamechua\Downloads\Komodo Dragon.v1i.yolov8
+test: test/images
+train: train/images
+val: valid/images
